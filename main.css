@@ -1,0 +1,62 @@
+h1{
+	text-align: center;
+	font-style: italic;
+}
+h2{
+	text-align: center;
+	font-style: italic;
+	color: orange;
+}
+nav{
+	background-color: orange;
+	
+	margin-left: 200px;
+	margin-right: 200px;
+
+}
+nav label{
+	margin-left: 10px;
+}
+.prenom{
+	margin-right: 307px;
+	font-weight: bold;
+}
+.password{
+	margin-right: 280px;
+	font-weight: bold;
+}
+.disponiblite{
+	margin-right: 109px;
+	font-weight: bold;
+}
+.association{
+	margin-right: 284px;
+	font-weight: bold;
+}
+.contribution{
+	margin-right: 280px;
+	font-weight: bold;
+}
+.commentaire{
+	margin-left: 385px;
+	margin-top: -30px;
+	font-weight: bold;
+
+}
+.submit{
+	margin-right: 385px;
+
+	
+}
+.asso{
+	border-radius: 20px;
+}
+.sub{
+	border-radius: 25px;
+}
+.reset{
+	margin-right: 285px;
+}
+.res{
+	border-radius: 20px;
+}
